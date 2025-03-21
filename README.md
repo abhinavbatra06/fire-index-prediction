@@ -5,7 +5,7 @@ This project predicts the **Fire Weather Index (FWI)**, a key indicator of wildf
 
 ---
 
-## Dataset  (https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
+## [Dataset](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
 The dataset includes the following features:  
 
 ### Weather Data Observations:
