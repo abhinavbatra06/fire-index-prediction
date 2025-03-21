@@ -8,6 +8,9 @@ This project predicts the **Fire Weather Index (FWI)**, a key indicator of wildf
 ## [Dataset](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
 The dataset includes the following features:  
 
+## Live Web App
+[You can access the live app here](https://fire-index-prediction-ano7hn3hjbmsdcsfrmemkk.streamlit.app/)
+
 ### Weather Data Observations:
 - **Temperature (°C):** 22 - 42  
 - **Relative Humidity (%):** 21 - 90  
@@ -59,3 +62,4 @@ Lasso Regression	| 0.81	    | 2.40
 - Minimal improvement in Ridge & Lasso over Linear Regression.
 - Fire risk is highly seasonal, with August showing the highest fire occurrences.
 - The highest values of coefficients are for - Initial Spread Index (ISI) & Duff Moisture Code (DMC)
+
