@@ -26,7 +26,7 @@ The dataset includes the following features:
 ### Requirements & How to Use  
 - Install Dependencies: pip install -r requirements.txt
 - Clone the repository:
-  - git clone https://github.com/abhinavbatra06/Fire-Weather-Index-FWI-Prediction.git
+  - git clone https://github.com/abhinavbatra06/fire-index-prediction.git
   - cd fire-weather-index-prediction
 - jupyter notebook
 
