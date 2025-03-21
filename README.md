@@ -58,5 +58,4 @@ Lasso Regression	| 0.81	    | 2.40
 
 - Minimal improvement in Ridge & Lasso over Linear Regression.
 - Fire risk is highly seasonal, with August showing the highest fire occurrences.
-  
-# fire-index-prediction
+- The highest values of coefficients are for - Initial Spread Index (ISI) & Duff Moisture Code (DMC)
