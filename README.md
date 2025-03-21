@@ -5,12 +5,17 @@ This project predicts the **Fire Weather Index (FWI)**, a key indicator of wildf
 
 ---
 
-## [Dataset](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
-The dataset includes the following features:  
-
 ## Live Web App
 [You can access the live app here](https://fire-index-prediction-ano7hn3hjbmsdcsfrmemkk.streamlit.app/)
 
+## Screenshot 
+
+![image](https://github.com/user-attachments/assets/8b2b8c7e-b48d-4eb3-8703-2ba74c5de071)
+
+
+## [Dataset](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
+
+The dataset includes the following features:  
 ### Weather Data Observations:
 - **Temperature (°C):** 22 - 42  
 - **Relative Humidity (%):** 21 - 90  
