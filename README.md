@@ -62,7 +62,7 @@ Ridge Regression	| 0.81	    | 2.40
 
 Lasso Regression	| 0.81	    | 2.40
 
-### Key Observations 
+## Key Observations 
 
 - Minimal improvement in Ridge & Lasso over Linear Regression.
 - Fire risk is highly seasonal, with August showing the highest fire occurrences.
