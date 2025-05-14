@@ -38,7 +38,7 @@ The dataset includes the following features:
   - cd fire-weather-index-prediction
 - jupyter notebook
 
-### Approach
+## Approach
 #### Exploratory Data Analysis (EDA)
 - Data Cleaning
   - Removed null values and corrected column names.
@@ -53,7 +53,7 @@ The dataset includes the following features:
   - Ridge Regression (Best alpha = 5, L2 regularization)
   - Lasso Regression (Best alpha = 0.01, L1 regularization)
 
-### Eval Metrics
+## Eval Metrics
 Model             | R² Score	| Mean Squared Error (MSE)
 
 Linear Regression	| 0.81	    | 2.43
